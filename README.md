@@ -21,7 +21,7 @@ https://mumu.163.com/
 ![图片](https://user-images.githubusercontent.com/118042225/215647271-17689974-e7c6-44b4-a587-4db804480389.png)  
 接着需要下载两个软件：  
 #### （1)天天跳绳（百度搜索自行下载）  
-#### （2）GG修改器，这里附上下载链接http://www.ggxiugaiqi.net/  
+#### （2）GG修改器，请在Github下载或者在官网下载模拟器版本https://gameguardian.net/forum/files/file/2-gameguardian/
 然后你要会安装GG修改器，其实root之后按照安装提示就好了，工作模式选择root，然后弹出的授予超级用户权限给它授予一下就好了，如果你连安装都不会建议去百度找一下教程  
 ### 3.虚拟摄像头  
 有OBS或其他的自备，这里没用过虚拟摄像头的推荐跟我一起用Wecamhttps://www.e2esoft.cn/downloads/  
@@ -118,4 +118,4 @@ https://mumu.163.com/
 如果你一切正常并且修改成功，就赶快去排行榜看看叭！  
 ![图片](https://user-images.githubusercontent.com/118042225/215651697-13227dd8-c73a-49af-9041-fe637dab1812.png)  
 如果你很好奇为什么我只超过了8%的选手，是因为这个超过百分比是根据你系统算出来一分钟跳绳数目判定的。  
-所以至此，跳绳的修改就正式完成
+## 所以至此，跳绳的修改就正式完成
